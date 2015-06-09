@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 okolodev. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import "ABMultiton.h"
 #import "ABMultitonProtocol.h"
 #import "ABMultitonInjector.h"
